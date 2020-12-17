@@ -1,0 +1,36 @@
+# Session 10
+ - Illusion lessons
+   - Breakfast
+     - Stand round the fountain (healing)
+     - Odd looking creature of shit and paper - Heads off to the 2nd years
+     - One of the elves - Master Hasun
+       - Illusions to be unseen or be seen differently
+       - Lots of writing, eagerness
+       - Meltwater's illusion - homework to unpick it and figure out how they did it to me
+       - Handful of scrolls
+       - Invisibility, illusuary disguise, - one of each, each
+       - Perkin has 6 months
+       - Necromancy or Abduration
+       - Try to look up the Wish spell that might be effecting Perkin
+         - Only wish can undo a wish
+         - A merid that has wishes is "hanging around"
+         - Another portal in the crypt beneath the school
+         - All streams onteh island
+         - Emergency thought if itgets close, use the couldron 
+         - How do you open a portal,you make a request to the merid
+         - The vessel is the lashing waters staff
+       - Lashing currents massive conjuration and a big transmutation
+       - Little mouth in the locket - come to the barrel cave cos this mouth can't spit in your mouth
+       - Dip the staff into the well
+       - Probably in there right now imprisoned
+       - Illusion of meltwater (Anton) - Who we accidentally give the locket to
+       - Asking about the high priest
+       - Meltwater was casting feet to fins
+       - Sexual shell shock
+       - Next coupld of days are the weekend...
+       - Exams at the end of next week
+     - Night time
+     - New Day 
+       - Perkin's sword outside (lots of them)
+       - Fell into the wax...
+       - Battlefield = Perkin

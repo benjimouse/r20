@@ -1,0 +1,39 @@
+# Session 11
+ - Master Ambrose will be setting some exams
+ - 4 stages of the exam
+   - Wizarding (general) competance - blind reading - find out if it's group work on entering.
+   - Written spell thesis performed alone - Fireball level of competancy
+   - Individual opportunity to demonstrate your chosen school
+   - A preparedness section
+ - He will delay the swords
+ - 2nd years will have exams later
+ - 5 Sword spiders now in the air
+ - Learn aqueous orb
+ - Locked away, possibly a way of communicating with the thing
+ - Imprisoned in staff could be talked to
+ - I know that you are new here little wizling snap the staff now and some of your friends will survive.
+ - 2d 7c qh
+ - Card trickand obscuring mist
+ - Vicks knows the the 
+ - Magic missile 
+ - Now the demonstration
+ - To the arena
+   - Big fireball
+   - Summon a water mephit
+   - Perkin's Katas to fight the targets
+   - Beef and the food
+   - Dana and the great skeletons
+ - Back to the villages
+   - Written exam
+     - Do not attempt to tamper with the hour glass
+       - Try to create a spell - Mixture of conjuration
+       - Learn magical fetters
+       - 3 Jacksons in goblin masks
+       - Summon earth elemental
+       - Meld with stone
+     - not failed
+       - Imperial counter contingency
+         - An insergent movement trying to bring back 
+         - They have an army and a navy
+         - Vicks Imperial chief of secret police
+         - 

@@ -1,0 +1,26 @@
+Level 1 elementals
+/w Seph {{
+**Summon Level 1 elementals.**
+*Air Mephit*
+[First claw](!&#13;#1-Ball-Python-first-attack) | [Second bite](!&#13;#1-Ball-Python-second-attack) | [Wrap in coils](!&#13;#1-Ball-Python-Wrap-in-coils)| [Constrict](!&#13;#1-Ball-Python-Constrict)
+*Cave Scorpion*
+[First pincer](!&#13;#1-Cave-scorp-pincer-first-attack) | [Second pincer](!&#13;#1-Cave-scorp-pincer-second-attack) | [First stinger](!&#13;#1-Cave-scorp-stinger-first-attack)| [Second stinger](!&#13;#1-Cave-scorp-stinger-second-attack)
+*Veloceraptor*
+[First jaws](!&#13;#1-Velo-jaws-first) | [Second jaws](!&#13;#1-Velo-jaws-second) | [First talon](!&#13;#1-Velo-talon-first)| [Second talon](!&#13;#1-Velo-talon-second)
+*Wolf*
+[Wolf First Bite](!&#13;#1-Wolf-first-attack) | [Wolf Second Bite](!&#13;#1-Wolf-second-attack)
+}}
+
+
+
+
+
+
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Mr Fluffy 🐺}} {{header=🐺 First bite 🐺}} {{roll01_name=^{attack}}} {{roll01=[[1d20+9]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (2)]]}} {{roll02_type=damage}} {{roll02_info=Piercing Plus Knockdown!}} {{roll03_name=^{critical_damage}}} {{roll03=[[(1D6 + 2)*2]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing Plus Knockdown!}}
+
+
+
+
+
+
+{{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D4 + (0)[@{Seph|text_ability_modifier}] + (0)[WEAPON SPECIALIZATION] + (0)[TEMP] + (0)[OTHER] + (@{Seph|query_roll_damage_bonus})[@{Seph|text_roll_damage_bonus}]]]}} {{roll02_type=damage}} {{roll02_info=bludgeoning}} {{roll04_name=^{damage_additional}}} {{roll04=}} {{roll04_type=damage}} {{roll03_name=^{critical_damage}}} {{roll03=[[(1D4 + (0)[@{Seph|text_ability_modifier}] + (0)[WEAPON SPECIALIZATION] + (0)[TEMP] + (0)[OTHER] + (@{Seph|query_roll_damage_bonus})[@{Seph|text_roll_damage_bonus}])*2 + (0)[ADDITIONAL DAMAGE] ]]}} {{roll03_type=critical-damage}} {{roll03_info=bludgeoning}}
