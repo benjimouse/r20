@@ -1,0 +1,22 @@
+# Session 13
+ - Masters lined up waiting for us.
+   - With the second years
+   - We're given masters
+   - To go to Magister Vicks (Enchantment) or jonus (Transmutation) (Really upset when I choose Vicks)
+     - Antone is the other apprentice
+     - Regularly surpass your previous learnings in the school of magic your master practices.
+     - Can ask for help from the first apprentice
+     - Assorted representatives from our own state
+     - Tell meltwater I'll try and get her locket back from Antone
+     - Get the locket
+     - Do call him my Grace
+     - Locket has now got Antone's sigel on it, give it back.
+     - A long conversation about Gnar and Antone with temperence
+     - Kiss on the cheek and a pat on the head
+   - A week of ordinary lessons
+     - Learnt how not to be eaten by a dragon
+     - Lesson from Perkin on dragons
+     - Can't learn deja vu - Crit fail
+     - Vicks sets the place up for some nice bits, hiding the library.
+     - Goblin bubble
+     - 

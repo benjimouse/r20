@@ -24,3 +24,15 @@
      - Shield / augment
      - Portal was used to all the places in the jungle
      - Return to the school
+     - A map of the world
+     - Use the merrid to travel water source to water source.
+       - While off the island we don't have the protection of the contigency.
+       - Perhaps start at Valysium or head to teh Draywells.
+       - Casts an enchantment on me to be sick in case I would say Ambrosious's name (and Pod as well)
+       - Corrim as one of the bootmaker's guild
+         - In comes Ambrosious 
+       - The knitting goblin aunts
+       - The obvious dragon brass ballgown
+       - Ambrosious asks If I would do something foolish were Vicks ask me to do it.
+       - Babies - Ambrosious is very sick
+       - 

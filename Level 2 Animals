@@ -9,6 +9,9 @@ Level 2 Animals
 [First claw](!&#13;#ani-2-Cave-fisher-First-claw) | [Second claw](!&#13;#ani-2-Cave-fisher-Second-claw) | [First filament](!&#13;#ani-2-Cave-fisher-First-filament) | [Second filament](!&#13;#ani-2-Cave-fisher-First-filament)
 *Cockroach swarm*
 [Swarming bites](!&#13;#ani-2-cockroach-swarm-bite) 
+*Crockodile*
+[First bite](!&#13;#ani-2-Crocodile-First-Jaws) | [Second bite](!&#13;#ani-2-Crocodile-Second-Jaws) | [First tail](!&#13;#ani-2-Crocodile-First-Tail) | [Second tail](!&#13;#ani-2-Crocodile-Second-Tail) | [First death roll](!&#13;#ani-2-Crocodile-First-Death-roll) | [Second death roll](!&#13;#ani-2-Crocodile-Second-Death-roll)
+
 }}
 
 
@@ -56,10 +59,18 @@ ani-2-Cave-fisher-Second-filament
 ani-2-cockroach-swarm-bite
 @{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Calliope the Cockroach swarm 🐜}} {{header=🐜 Cockroach swarm bites 🐜}} {{info01_name=^{action}}}{{info01=^{1-action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}}{{desc=Each enemy in the swarm's space takes [[1d8]] piercing damage (DC 18 basic Reflex save).}}
 
-ele-2-Living-boulder-First-Jaws
-@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Layla the living boulder 🗿}} {{header=🗿 First bite 🗿}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D8 + (6)]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D8 + 6)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing}}
-ele-2-Living-boulder-Second-Jaws
-@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Layla the living boulder 🗿}} {{header=🗿 Second bite 🗿}} {{roll01_name=^{attack}}} {{roll01=[[1d20+5]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D8 + (6)]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D8 + 6)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing}}
+ani-2-Crocodile-First-Jaws
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cristina the crocodile 🐊}} {{header=🐊 First bite 🐊}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D10 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Piercing Plus Grab}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D10 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing Plus Grab}}
+ani-2-Crocodile-Second-Jaws
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cristina the crocodile 🐊}} {{header=🐊 Second bite 🐊}} {{roll01_name=^{attack}}} {{roll01=[[1d20+5]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D10 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Piercing Plus Grab}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D10 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing Plus Grab}}
+ani-2-Crocodile-First-Tail
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cristina the crocodile 🐊}} {{header=🐊 First tail 🐊}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Bludgeoning}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Bludgeoning}}
+ani-2-Crocodile-Second-Tail
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cristina the crocodile 🐊}} {{header=🐊 Second tail 🐊}} {{roll01_name=^{attack}}} {{roll01=[[1d20+6]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Bludgeoning}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Bludgeoning}}
+ani-2-Crocodile-First-Death-roll
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cristina the crocodile 🐊}} {{header=🐊 First Death roll 🐊}} {{roll01_name=^{attack}}} {{roll01=[[1d20+12]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D10 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D10 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing}}
+ani-2-Crocodile-Second-Death-roll
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cristina the crocodile 🐊}} {{header=🐊 Second Death roll 🐊}} {{roll01_name=^{attack}}} {{roll01=[[1d20+7]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D10 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D10 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing}}
 
 ele-2-Mudwretch-First-Jaws
 @{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Mabel the mudwretch 💩}} {{header=💩 First bite 💩}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D8 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Bludgeoning (plus grab)}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D8 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Bludgeoning (plus grab)}}
