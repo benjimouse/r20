@@ -1,0 +1,26 @@
+# Session 12
+ - Go to sort out wax sword things
+   - 2 still in the air, sorted with produce flame
+ - Floating over the cauldron an amalgamation
+   - Fight the sword beast and win
+ - Summon soulbound doll (neutral good) and put it in (It thinks Perkin is "Daddy")
+ - Weekend
+   - Look up merid
+     - Commanded / ordered etc. no mention of command words etc.
+     - Perkin builds a bed
+   - Relaxing
+ - Monday morning
+   - I have 1 minute and 5 seconds to spare
+   - Stop the imperial counter contigency
+   - use the portal undetr the old school
+   - The coming war Valesium is really important
+   - Stop an army
+   - Just tell it what to do
+   - Passes for all
+   - Write out the remove shadow of undeath
+     - Discussions with the Merrid
+       - About Perkin's condition
+     - We get to the old school
+     - Shield / augment
+     - Portal was used to all the places in the jungle
+     - Return to the school

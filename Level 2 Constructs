@@ -1,0 +1,25 @@
+Level 2 Constructs
+/w Seph {{
+**Summon Level 2 constructs.**
+*Animated armour*
+[First glaive](!&#13;#con-2-Animated-Armour-First-Glaive) | [Second glaive](!&#13;#con-2-Animated-Armour-Second-Glaive) | [First gauntlet](!&#13;#con-2-Animated-Armour-First-Gauntlet) | [Second gauntlet](!&#13;#con-2-Animated-Armour-Second-Gauntlet) |
+*Soulbound doll*
+[First fist](!&#13;#con-2-Soulbound-doll-First-fist) | [Second fist](!&#13;#con-2-Soulbound-doll-Second-fist)
+}}
+
+
+
+
+con-2-Animated-Armour-First-Glaive
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Arnold the animated armour 🤺}} {{header=🤺 First glaive 🤺}} {{roll01_name=^{attack}}} {{roll01=[[1d20+11]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D8 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Slashing (Magical, Forceful)}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D8 + 4)*2)+1D8]] }} {{roll03_type=critical-damage}} {{roll03_info=Slashing (Magical, Forceful)}}
+con-2-Animated-Armour-Second-Glaive
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Arnold the animated armour 🤺}} {{header=🤺 Second glaive 🤺}} {{roll01_name=^{attack}}} {{roll01=[[1d20+6]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D8 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Slashing (Magical, Forceful)}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D8 + 4)*2)+1D8]] }} {{roll03_type=critical-damage}} {{roll03_info=Slashing (Magical, Forceful)}}
+con-2-Animated-Armour-First-Gauntlet
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Arnold the animated armour 🤺}} {{header=🤺 First gauntlet 🤺}} {{roll01_name=^{attack}}} {{roll01=[[1d20+9]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Bludgeoning (Magical)}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Bludgeoning (Magical)}}
+con-2-Animated-Armour-Second-Gauntlet
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Arnold the animated armour 🤺}} {{header=🤺 Second gauntlet 🤺}} {{roll01_name=^{attack}}} {{roll01=[[1d20+5]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Bludgeoning (Magical)}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Bludgeoning (Magical)}}
+
+con-2-Soulbound-doll-First-fist
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sammy the soulbound doll 👶}} {{header=👶 First fist 👶}} {{roll01_name=^{attack}}} {{roll01=[[1d20+9]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (2)]]}} {{roll02_type=damage}} {{roll02_info=Bludgeoning (Magical)}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 2)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Bludgeoning (Magical)}}
+con-2-Soulbound-doll-Second-fist
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sammy the soulbound doll 👶}} {{header=👶 Second fist 👶}} {{roll01_name=^{attack}}} {{roll01=[[1d20+6]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (2)]]}} {{roll02_type=damage}} {{roll02_info=Bludgeoning (Magical)}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 2)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Bludgeoning (Magical)}}

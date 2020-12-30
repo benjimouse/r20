@@ -30,10 +30,10 @@
        - Learn magical fetters
        - 3 Jacksons in goblin masks
        - Summon earth elemental
-       - Meld with stone
+         - Meld with stone
      - not failed
        - Imperial counter contingency
-         - An insergent movement trying to bring back 
+         - An insergent movement trying to bring back the empire
          - They have an army and a navy
          - Vicks Imperial chief of secret police
          - 
