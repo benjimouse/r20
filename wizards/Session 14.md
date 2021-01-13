@@ -1,0 +1,22 @@
+# Session 14 2021-01-06
+ - Party continues.
+ - Portal starts to shrink
+   - Gifts!
+     - A little wrapped, soft present of soft gloves
+ - Talk of teh Draywells were the bit that really benifited from teh empire
+ - Since the collapse, it's become bands of roving warlords pretty much overnight.
+   - Rivallry between N or S Draywells
+ - Sword things outside 
+ - Sword thing in Dana
+ - Battlefield medicine on Dana
+   - Healer's gloves on Dana
+ - Sleep
+   - Weekend
+   - Slog to the school
+     - I command you to create a portal to the Draywells
+     - Which it does.
+   - Battlefield medicine Perkin
+   - Arrive at a ruined city.
+   - Welcome to Glaria Says our Orcy friend
+   - Army out the gate and then North
+   - Meet and intimidate some muggers
