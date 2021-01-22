@@ -1,0 +1,20 @@
+# Session 15
+ - Gnolls - Fighting
+   - Darkness - Fireball and fighting
+   - Perkin hurt
+   - Battle medicine and gloves on Perkin
+   - Start to prep treat wounds
+   - Treat wounds on Pod
+   - Keep going until we get to an army camp
+     - Near the sea
+   - Cast Pet cache and hide pod
+   - Approach the camp, with a plan to be wandering itinerants
+   - Talking about the imperial spire
+   - They've gone off raiding Gnar
+   - A fish priest leading the the charge, might be able to do the whole thing with a show of force.
+   - A defector from Gnar sailed off after a few days
+     - Traitor is definitely not Ambrosious...
+   - Our captain who goes directly to the steward.
+   - A letter to the aunts
+   - Sparko and the drinks
+   - We head home
