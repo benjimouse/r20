@@ -1,0 +1,17 @@
+# Session 16
+ - Obscuring mist
+ - Has sent us to the "wrong place"
+ - Look at the crystals
+ - Lit by clowing rocks
+ - Miners, spiders and a big fleshy mouth
+ - The queen needs as much as she can the emporer sent them below.
+ - The queen has an insatiable hunger
+ - There have been many come from the school before a long time ago
+ - Very hot hole
+ - Meet some more miners
+ - Do not go the way from behind the throne
+ - Battle medicine on me
+ - Somewhere between human and Elf, finger nails elf like, eyes magic shit - Cinabar
+ - Poisoned
+ - Cure poison
+ - The Merrid has run out of spells
