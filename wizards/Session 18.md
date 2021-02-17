@@ -1,0 +1,28 @@
+# Session 18
+ - Investigate knife
+ - Knife has disappeared
+ - Awake with a start, dreams fo the knife plunging into me again and it's 
+ - Cursed with some kind of fey malarky 
+ - Give the knife to the little doll
+ - A day of pissing about time - Nereid is "there and back again"
+ - Illusion lesson - Hasten
+   - None of you have found your way into the school fo illusion
+   - Beneficial to you to learn how to 
+   - Joint lesson with teh second years
+   - Illusory disguise - 1 hour
+   - Plant Seph
+   - Seph Goblin
+   - Goblin Perkin
+   - Perkin Plant
+   - They are learning counter spells
+   - Seph -> Perkin
+   - We all change
+   - Appearances tweaked
+   - I pick Roger
+   - Sparko (Seph) head off with Meltwater (Temperance) on a picnic date.
+   - The Kiss
+   - Sudden Bolt - Gloves on bringing Roger (Anton) back to life
+   - Steal the crab (again) - But it has been nailed to the bottom of the box
+   - Head back
+   - Not giving the Crab back - Into the pocket dimension he goes.
+   - 

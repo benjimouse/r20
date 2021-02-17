@@ -1,1 +1,30 @@
 # Session 17
+ - Find Beef
+ - Battlefield Beef
+ - We kill the miner
+ - Start treat medicine on Beef
+ - Discussions about scythe.
+ - Decide not to fight big purple creature
+ - Find lizard man and big toad beast
+ - Ballistas and the queen
+   - Take out a big jungle bird
+ - Butler then gets sent through comes back and killed
+ - Send a message to Vicks
+ - One of your own guard found us wandering without the protection of 'your betters'
+ - Bound not to tamper with the property of the empire
+ - "He's my appretice now" - Dana
+ - A message = "knife" = with Perkin
+ - It has been the first of our meetings.
+ - We appear at the fountain
+ - Vicks questions us
+ - Nothing about the steward of the throne
+ - The splinters of the throne
+ - Plan B - Information quarentine on Gnar and the war overall
+ - Plan with Antone doppleganger
+ - Fuck ton of magic here
+ - Light stone
+ - Looking at the knife
+ - Level 6 - 4 spells
+ - Days to recrupriate
+ - Perkin's shadow has claws
+ - 

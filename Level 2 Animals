@@ -17,6 +17,10 @@ Level 2 Animals
 [First bite](!&#13;#ani-2-Giant-Ant-First-Jaws) | [Second bite](!&#13;#ani-2-Giant-Ant-Second-Jaws) | [First stinger](!&#13;#ani-2-Giant-Ant-First-Stinger) | [Second stinger](!&#13;#ani-2-Giant-Ant-Second-Stinger) | [Haul away](!&#13;#ani-2-Giant-Ant-Haul-Away) 
 *Giant Badger*
 [First bite](!&#13;#ani-2-Giant-Badger-First-Jaws) | [Second bite](!&#13;#ani-2-Giant-Badger-Second-Jaws) | [First rage bite](!&#13;#ani-2-Giant-Badger-First-Rage-Jaws) | [Second rage bite](!&#13;#ani-2-Giant-Badger-Second-Rage-Jaws) | [First claws](!&#13;#ani-2-Giant-Badger-First-Claws) | [Second claws](!&#13;#ani-2-Giant-Badger-Second-Claws) | [First rage bite](!&#13;#ani-2-Giant-Badger-First-Rage-Claws) | [Second rage claw](!&#13;#ani-2-Giant-Badger-Second-Rage-Claws) | 
+*Giant Bat*
+[First bite](!&#13;#ani-2-Giant-Bat-First-Bite) | [Second bite](!&#13;#ani-2-Giant-Bat-Second-Jaws) | [First wing](!&#13;#ani-2-Giant-Bat-First-Wing) | [Second wing](!&#13;#ani-2-Giant-Bat-First-Wing)  | 
+*Giant Crab*
+[First claw](!&#13;#ani-2-Giant-Crab-First-Claw) | [Second claw](!&#13;#ani-2-Giant-Crab-Second-Claw) | [Constrict](!&#13;#ani-2-Giant-Crab-Constrict) |
 }}
 
 
@@ -117,11 +121,37 @@ ani-2-Giant-Badger-Second-Rage-Claws
 @{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Billie the giant badger 🦡}} {{header=🦡 Second claws (Raging)🦡}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+7]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (8)]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 8)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing}}
 
 
+ani-2-Giant-Bat-First-Bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Bowie the giant bat 🦇}} {{header=🦇 First fang 🦇}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D10 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Slashing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D10 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Slashing}}
+ani-2-Giant-Bat-Second-Bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Bowie the giant bat 🦇}} {{header=🦇 Second fang 🦇}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+5]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D10 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Slashing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D10 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Slashing}}
+ani-2-Giant-Bat-First-Wing
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Bowie the giant bat 🦇}} {{header=🦇 First wing 🦇}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing}}
+ani-2-Giant-Bat-Second-Wing
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Bowie the giant bat 🦇}} {{header=🦇 Second wing 🦇}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+6]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing}}
+
+ani-2-Giant-Crab-First-Claw
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cressida the giant crab 🦀}} {{header=🦀 First claw 🦀}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D10 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Slashing plus grab}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D10 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Slashing plus grab}}
+ani-2-Giant-Crab-Second-Claw
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cressida the giant crab 🦀}} {{header=🦀 Second claw 🦀}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+5]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D10 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Slashing plus grab}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D10 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Slashing plus grab}}
+ani-2-Giant-Crab-Constrict
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Cressida the giant crab 🦀}} {{header=🦀 Constrict 🦀}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{damage}}} {{roll01=[[1d6+4]]}} {{roll01_type=attack}} {{roll01_info=Bludgeoning DC 18 (basic fortitude save)}}
 
 
-ani-2-Giant-Ant-First-Stinger
-@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Antony the giant ant 🐜}} {{header=🐜 First stinger 🐜}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+11]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Piercing plus giant ant venom!}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing plus giant ant venom!}}
-ani-2-Giant-Ant-Second-Stinger
-@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Antony the giant ant 🐜}} {{header=🐜 Second stinger 🐜}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+7]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1D6 + (4)]]}} {{roll02_type=damage}} {{roll02_info=Piercing plus giant ant venom!}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1D6 + 4)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing plus giant ant venom!}}
-ani-2-Giant-Ant-Haul-Away
-@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Antony the giant ant 🐜}} {{header=🐜 Haul away 🐜}}{{info01_name=^{action}}} {{info01=^{1-action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}}{{desc=Requirements The giant ant has a Large or smaller creature grabbed; Effect The giant ant Strides up to its full Speed, carrying the grabbed creature with it. It is encumbered if the grabbed creature is Medium or larger.}}  
+
+ani-2-Shocker-Lizard-First-Shock
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sid the shocker lizard 🦎⚡}} {{header=🦎⚡ First shock 🦎⚡}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[2d6]]}} {{roll02_type=damage}} {{roll02_info=Nonleathal Electricity}} {{roll03_name=^{critical_damage}}} {{roll03=[[((2D6)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Nonleathal Electricity}}
+ani-2-Shocker-Lizard-Second-Shock
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sid the shocker lizard 🦎⚡}} {{header=🦎⚡ Second shock 🦎⚡}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+5]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[2d6]]}} {{roll02_type=damage}} {{roll02_info=Nonleathal Electricity}} {{roll03_name=^{critical_damage}}} {{roll03=[[((2D6)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Nonleathal Electricity}}
+
+ani-2-Shocker-Lizard-First-Bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sid the shocker lizard 🦎⚡}} {{header=🦎⚡ First bite 🦎⚡}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1d8+3]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1d8+3)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Nonleathal Electricity}}
+ani-2-Shocker-Lizard-Second-Bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sid the shocker lizard 🦎⚡}} {{header=🦎⚡ Second bite 🦎⚡}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+6]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1d8+3]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1d8+3)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Nonleathal Electricity}}
+
+
+/me rolls a [[1d20+?{modifier|0}]] for ?{reason|no reason}.
+
+?{animal|Sid the summoned animal} ?{AttackType|Claws|Bites|Wings} [[1d20+?{toHit|0}]] doing ?{Dice|D4|D6|D8|D10|D12|D20|D100}: [[ ?{Dice} +?{Bonus}]] damage
+
+?{Roll|Public, |Private,/w gm} Rolling ?{Number|1}?{Type|D20|D4|D6|D8|D12|D100}: [[ ?{Number}?{Type} ]]
