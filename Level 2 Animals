@@ -21,6 +21,8 @@ Level 2 Animals
 [First bite](!&#13;#ani-2-Giant-Bat-First-Bite) | [Second bite](!&#13;#ani-2-Giant-Bat-Second-Jaws) | [First wing](!&#13;#ani-2-Giant-Bat-First-Wing) | [Second wing](!&#13;#ani-2-Giant-Bat-First-Wing)  | 
 *Giant Crab*
 [First claw](!&#13;#ani-2-Giant-Crab-First-Claw) | [Second claw](!&#13;#ani-2-Giant-Crab-Second-Claw) | [Constrict](!&#13;#ani-2-Giant-Crab-Constrict) |
+*Shocker Lizard*
+[First shock](!&#13;#ani-2-Shocker-Lizard-First-Shock) | [Second shock](!&#13;#ani-2-Shocker-Lizard-First-Shock) | [First bite](!&#13;#ani-2-Shocker-Lizard-First-Bite) | [Second bite](!&#13;#ani-2-Shocker-Lizard-Second-Bite) | [Discarge](!&#13;#ani-2-Shocker-Lizard-Discharge)
 }}
 
 
@@ -148,6 +150,8 @@ ani-2-Shocker-Lizard-First-Bite
 @{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sid the shocker lizard 🦎⚡}} {{header=🦎⚡ First bite 🦎⚡}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+10]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1d8+3]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1d8+3)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Nonleathal Electricity}}
 ani-2-Shocker-Lizard-Second-Bite
 @{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sid the shocker lizard 🦎⚡}} {{header=🦎⚡ Second bite 🦎⚡}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+6]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1d8+3]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1d8+3)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Nonleathal Electricity}}
+ani-2-Shocker-Lizard-Discharge
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Sid the shocker lizard 🦎⚡}} {{header=🦎⚡ Discharge 🦎⚡}}{{info01_name=^{action}}} {{info01=^{2-action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=2-action}}{{desc=The shocker lizard releases a blast of lightning from its body. Creatures within a 10-foot emanation take [[3d6]] electricity damage (DC 18 basic Reflex save). The shocker lizard can't use Discharge for [[1d4]] rounds.}}  
 
 
 /me rolls a [[1d20+?{modifier|0}]] for ?{reason|no reason}.

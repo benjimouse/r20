@@ -1,1 +1,24 @@
-Session 19
+# Session 19
+
+ - Evocation lesson 
+ - Ghostly knives
+ - Now ghostly bigger knives swords etc.
+ - Stuck to a Jackson
+ - Jacksons trying to hurt us
+ - Construct that's might be controlling things
+ - Staff gets passed over to Beef
+ - He hasn't collected our sticks
+ - Out for the count
+ - Dimension door - scroll taps into the water ways (probably same spell the masters cast - higher level sort of thing the masters cast)
+ - Meld into stone scroll
+ - I take over the sustaining
+ - Battering it down ends
+ - The weapons land on the "old school"
+ - Toucan appears - "do not send questions"
+ - Bring our prisoner round
+ - Battlefield medicine
+ - From "bloke"
+   - Rain = steeward of the throne
+   - Spent weeks aroudn the wax pit - seriously angry ghosts who don't like us gave him the needle
+   - Vernon
+ - 
