@@ -1,0 +1,12 @@
+# Session 20
+ - Discussions about heading off the the second years
+ - Head through to the second years
+ - Alchemical golem
+   - Imm to all magic and healed by acied, hurt by sonic damage
+ - Talk to Antone 
+ - He seems to know about Beef
+ - Nicking some of the wine
+ - Empress Dana
+ - Find guy has escaped
+ - Battle medicine on me
+ - Chase down and find escaping guys

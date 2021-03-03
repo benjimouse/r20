@@ -16,9 +16,14 @@
  - The weapons land on the "old school"
  - Toucan appears - "do not send questions"
  - Bring our prisoner round
- - Battlefield medicine
- - From "bloke"
+ - Battlefield medicine on me and gloves
+ - From "bloke" - on courage
    - Rain = steeward of the throne
    - Spent weeks aroudn the wax pit - seriously angry ghosts who don't like us gave him the needle
    - Vernon
- - 
+ - Find them in the river...
+   - Fireball
+   - Assassin 'B' works for the alchimist general
+   - Plan to hand him over to Vicks
+   - Heading back
+   - 

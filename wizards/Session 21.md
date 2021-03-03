@@ -1,0 +1,28 @@
+# Session 21
+ - Discussion about what to do with the prisoner
+ - Eventually let him go. Poor old Deacon
+ - Head off to the old school
+ - Weather has taken a "shift"
+   - Proper rain
+   - School has been completely flattened bar the stained glass windows
+ - Find slushy piles of snow
+ - Find a trap door
+ - Find a dead Magister Vicks
+ - Loot the body
+   - Staff is broken
+   - Wands and fancy looking sword
+   - Ruined scrolls
+   - 3 rings, sword hat robe boots, sleeves separately on the robe very high level
+ - Battle medicine on me
+ - Carry Vicks back to the village
+ - Lay out magister Vicks in the bath house
+ - Look up Vicks - Diaries, definitly wasn't any kind of teacher in the before times, few enchantment books with his name on the cover.
+ - Well respected attended a long time ago, at least 60 years older than he looks
+   - Was living in the capital
+   - Referenced by a couple of former apprentices big name in abjuration worked in the imperial prison system as a consultant and another studied magic and given it up to be a biographer. Magister Walton and Magister Cranley.
+   - Graeme Gardener turns up
+   - Discuss with staff about transporting us to th ebody of water nearest to a person.
+   - Start heading over to the second
+   - Travel to the font in the abbey
+   - Appear in a pool 
+   - Start climbing up when the lobster appears
