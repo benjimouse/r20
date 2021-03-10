@@ -1,1 +1,28 @@
 Level 3 Animals
+
+
+🪱 Andrea the Ankhrav
+https://2e.aonprd.com/Monsters.aspx?ID=23
+First bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=🪱 Andrea the Ankhrav}} {{header=🪱 First bite 🪱}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+13]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1d8+4]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{damage}}} {{roll03=[[1d6]]}} {{roll03_type=damage}} {{roll03_info=Acid}} {{roll04_name=^{critical_damage}}} {{roll04=[[((1d8+4)*2)]] }} {{roll04_type=critical-damage}} {{roll04_info=Piercing}} {{roll05_name=^{critical_damage}}} {{roll05=[[((1d6)*2)]] }} {{roll05_type=critical-damage}} {{roll05_info=Acid}}
+Second bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=🪱 Andrea the Ankhrav}} {{header=🪱 Second bite 🪱}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+13]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1d8+4]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll03_name=^{damage}}} {{roll03=[[1d6]]}} {{roll03_type=damage}} {{roll03_info=Acid}} {{roll04_name=^{critical_damage}}} {{roll04=[[((1d8+4)*2)]] }} {{roll04_type=critical-damage}} {{roll04_info=Piercing}} {{roll05_name=^{critical_damage}}} {{roll05=[[((1d6)*2)]] }} {{roll05_type=critical-damage}} {{roll05_info=Acid}}
+
+🦈 Belle the Bunyip 
+🐛 Cecelia the Centipede Swarm
+🐒 Charlie the Chimpanzee Visitant
+🐺 Diane the Dire Wolf
+🦟 Fern the Fen Mosquito Swarm
+🦎 Geraldine the Giant Chameleon
+🐉 Jane Giant Dragonfly Nymph
+🦟 Jazmin the Giant Flea
+🪲 Joyce Giant Mantis
+🦂 Steve the Giant Scorpion
+🐝 William the Giant Wasp
+🐛 Cecilia Giant Whiptail Centipede
+🦍 Jenny the Gorilla
+🧸 Gerogina the Grizzly Bear
+🐆 Henrietta the Hyaenodon
+🦁 Leanne the Lion
+🦕 Peter the Pachycephalosaurus
+🐦 Raven the Raven Swarm

@@ -1,0 +1,23 @@
+# Session 22
+ - Fight the squid (who runs away)
+ - Summon a gorilla to get us all out.
+ - Battlefield medicine me and Beef
+ - High priest (not Ambrosious) - Prelate Archie
+ - Attempting to conjure a wind to move the fleet to Valesium
+ - Harder to bring back more powerful people.
+ - Use Vicks rings
+ - They will request my participation in the ritual
+ - Best that we meet with the Duke.
+ - Battlefield medicine on Perkin
+ - Pet Cache - For Pod on the way to see the Duke
+ - Head up to the Duke's chamber
+   - Duke is old for his years...
+   - He wants to know what's 
+   - Raise Anton to a higher rank 
+   - Yes I continue to honour our agreement, we are to foot all fo the bills.
+   - He offers to purchase the jewellery from Magaster Vicks
+   - Do send my regards upon his return
+   - Alter on the cliff top - To bring Olga back
+     - An hour
+     - Crit fail on a res check
+     - Sun sets as her eyes open.

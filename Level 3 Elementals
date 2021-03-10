@@ -1,0 +1,8 @@
+Level 3 Elementals
+
+🦈 Bob the Brine Shark
+https://2e.aonprd.com/Monsters.aspx?ID=196
+First bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=🦈 Bob the Brine Shark}} {{header=🦈 First bite 🦈 }}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+11]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1d12+7]]}} {{roll02_type=damage}} {{roll02_info=Piercing plus grab}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1d12+7)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing plus grab}}
+Second bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=🦈 Bob the Brine Shark}} {{header=🦈 Second bite 🦈 }}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+6]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[1d12+7]]}} {{roll02_type=damage}} {{roll02_info=Piercing plus grab}} {{roll03_name=^{critical_damage}}} {{roll03=[[((1d12+7)*2)]] }} {{roll03_type=critical-damage}} {{roll03_info=Piercing plus grab}}
