@@ -1,0 +1,31 @@
+# Session 23
+
+ - Olga came back - with Vicks and a great undead? creature
+ - Master Resin was the "wrong un" fighting 
+ - She casts invisiblity
+ - I cast see invisible
+ - Resilient sphere cast around
+ - She casts suggestion
+ - Held by Perkin I summon a shocker lizard - with a draining of the octopus
+ - Which kills her
+ - So so sorry.
+ - Agree to move forward and start again.
+ - Cash in some diamonds
+ - I become a full brother and then recinded
+ - We try again
+ - Archie continues on...
+ - Vicks now in Archie - Ambrosious is in the old imperial throne room
+ - Dungeons / prisons with them
+ - Deposit Archie ++ with the guards
+ - Go to visit the ritualisers
+ - Persuade them that Valesium is a really bad place to send the army
+ - Storm is stopped
+ - Stripped of all responsibilty
+   - Fall to knees in despair
+ - She promises to help
+   - Perkin explains the 4 in one body
+ - Asked for promises
+ - Free wiggles from the creature
+   - They step aside to have a grown ups conversation
+ - plan to head to a ship
+ - 
