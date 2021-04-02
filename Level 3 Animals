@@ -26,3 +26,6 @@ Second bite
 🦁 Leanne the Lion
 🦕 Peter the Pachycephalosaurus
 🐦 Raven the Raven Swarm
+
+
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Healer's Gloves}} {{header=Soothe wounds}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{heal}}} {{roll01=[[2D6+7]]}} {{roll01_info=Activate Single Action Interact; Frequency once per day; Effect You can soothe the wounds of a willing, living, adjacent creature, restoring 2d6+7 Hit Points to that creature. This is a positive healing effect. You can't harm undead with this healing.}} 

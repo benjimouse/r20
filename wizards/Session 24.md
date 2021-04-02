@@ -1,0 +1,15 @@
+# Session 24
+ - They are coming...
+ - Vicks tells us that we shouldn't get our expectations too high
+ - Make a plan
+ - See the fleet
+   - 53 ships
+   - Grown up waves
+ - Fireballs
+ - A big windy thing
+   - Send pod off to be the other side
+   - Summon a swarm of ravens and send them at one of the ships
+   - Kraken joins
+   - Big demon thing (an aspect of death) comes off and heads to fight Karlo the Kraken
+ - Battlefield medicine on Perkin
+ - Healer's gloves on Perkin
