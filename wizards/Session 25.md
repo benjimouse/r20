@@ -1,0 +1,23 @@
+# Session 25
+ - Head off the ship
+ - Ask the nerrid to take us back to the docks.
+   - It does so.
+   - Capsized but behind the blockade
+ - Search the priest
+   - Robes +1 armour
+   - Battlefield medicine on Sparko
+   - Key ring of assorted types
+   - Pendant of the occult to Beef
+   - Give beads to Archie
+ - Chat with Vicks
+ - Head to the fort
+ - A small boat heads to the cliffs
+ - Break the boat and find a dead black dragon
+ - Shoot a balister and use 
+ - Use 2 bits from the staff to cast obscuring mist
+ - Tower collapses under attack
+ - Rest - Summon fire mephit using the staff
+ - Row to the shore
+   - Unleash the mosquitos
+ - 2 small run out for the fireball fun.
+ - Perkin fights the 3 net men

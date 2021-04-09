@@ -29,3 +29,10 @@ Second bite
 
 
 @{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=Healer's Gloves}} {{header=Soothe wounds}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{heal}}} {{roll01=[[2D6+7]]}} {{roll01_info=Activate Single Action Interact; Frequency once per day; Effect You can soothe the wounds of a willing, living, adjacent creature, restoring 2d6+7 Hit Points to that creature. This is a positive healing effect. You can't harm undead with this healing.}} 
+
+
+🧸 Gerogina the Grizzly Bear
+First bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=🧸 Gerogina the Grizzly Bear}} {{header=🧸 First bite 🧸}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+11]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[2d8+4]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll04_name=^{critical_damage}}} {{roll04=[[((2d8+4)*2)]] }} {{roll04_type=critical-damage}} {{roll04_info=Piercing}} 
+Second bite
+@{Seph|whispertype} &{template:rolls} {{limit_height=@{Seph|roll_limit_height}}} {{charactername=🧸 Gerogina the Grizzly Bear}} {{header=🧸 Second bite 🧸}}{{info01_name=^{action}}} {{show_action_icon=@{Seph|roll_option_action_icon}}} {{action_icon=1-action}} {{roll01_name=^{attack}}} {{roll01=[[1d20+6]]}} {{roll01_type=attack}} {{roll01_info=}} {{roll01_critical=1}} {{roll02_name=^{damage}}} {{roll02=[[2d8+4]]}} {{roll02_type=damage}} {{roll02_info=Piercing}} {{roll04_name=^{critical_damage}}} {{roll04=[[((2d8+4)*2)]] }} {{roll04_type=critical-damage}} {{roll04_info=Piercing}} 
