@@ -21,3 +21,7 @@
    - Unleash the mosquitos
  - 2 small run out for the fireball fun.
  - Perkin fights the 3 net men
+ - Summon a dinosaur (using draw on...)
+ - Dana Summons an undead that kills 
+ - Invisible and then sneak away
+ - Try to cover our tracks
