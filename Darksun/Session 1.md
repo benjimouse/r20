@@ -1,0 +1,92 @@
+# Session 1
+ - Henry's character going for a morning walk
+ - Recently returned from a job as a guard
+ - In Dad's hut with Gratz, Garex and Funir (Dad)
+   - Tea from Aleburg (Mum)
+   - A friend needs help (Marius Imbracil) who used to work for house Stel (most powerful house in Urik)
+     - he's worries that house Stel might not take kindly 
+     - He'll pay well - 10 pieces of Silver to help get the cravan to Tyr
+     - Gratz happy to slit throats "if needs to"
+     - If we encounter any other druids / members of the vield alliance
+     - There is agesture to use to alliance a hand placed as if removing a veil.
+     - Caravan will be a Todak, won't need to go into the city.
+     - Speak to Marius Imracil himself
+   - I have been to RAAM (ancient Egypt - Theyre losing control, caravan was attacked by Draj slavers)
+   - Funir gives us food and healing potion
+ - As we approach the village - people crucified against the cactus. - Familiar site
+ - Crucified half elf, offer to release him
+ - Decide that's not something we can do.
+   - Marak was his name
+   - Dwarf
+ - Some Crodlu and a Human Templar and others gallopping south
+ - Get a dagger for poor Marrak
+ - Heading South (following the Templar)
+ - Will do water at the end of the day.
+ - Come to a cluster of buildings and a massive caravan
+ - No sign of templar from before, but do see a hive of activity.
+ - Seems to be a quantity of obsidian that's being off loaded
+ - A big half giant who is standing nearby with some of the guards.
+ - Head into the cool of a room.
+ - There are a couple of humans and the Templar who we saw before.
+   - Templar - "Thanks you" that will be acceptable 
+   - Refil waterskins from human slave
+     - Marius, black beard - mid 40's tanned, well dressed.
+       - House Imbrasil
+     - I've asked for help as this will be the first Caravan to Tyr, with mostly obsidian, concerned that competitors takinga  direct hand.
+       - Wanted peopel who could be trusted. Belive that others hired are good, lots put off, worried about reprisals.
+     - Job is to help the caravan on its way, all being well, we'll be paid 10 silver once the cargo is sold.
+     - Need to be vigilent and take initive.
+     - A templar from Urik has demanded passage.
+     - He has no juristriction outside of Urik
+     - Marius not coming
+       - Blaze, his agent is in charge of paying us / selling cargo
+       - Commander = Talen
+       - Then half giant in charge of guards
+       - Erazo (the falcon) in charge of outriders
+       - Old dwarven out rider vashara
+       - Dalga , master of cargo.
+       - We are there as Marius's eyes and ears, Talen's word is "law"
+       - We are troubleshooters
+         - Perhaps ride with outriders (Inex for me, Canx for others)
+         - Quen is master of provisions
+         - Coming back, plan is for Blaze to purchase iron and then have it sold somewhere else. Will be psionic message for us.
+         - Will be a way of proving ourselves as junior agents.
+       - Blaze Harrogan - 50's, grey hair, beard
+         - Exciting isn't it.
+         - Expecting trouble.
+       - Talen and Erazo - arrive, Talen has a feathery plume
+       - What are you going to contribute?
+         - Solve problems as they arrive.
+       - Talen "Im the King in there..."
+       - Meet the innex - 20' long lizard
+         - Female old dwarf who is looking 
+         - Fresh to the saddle - take ti for a bit of a ride...
+         - It's really not that quick - 30'
+           - name the lizard - Rock
+         - There's a whistle and 10 minutes to go.
+         - Ride rock
+         - Position ourselves in front of the Argosea, warned to stay away from the mechalots.
+         - We travel along
+         - Hottest part of the day - Really uncomfortable
+         - There's a house Stel Caravan approaching...
+         - We decide that we'll let them go past.
+         - Head off the road, big banners of house Stel, a spear with a human head on the front (which is unusual) - a man in a red robe, with a red "hat"
+         - This is the head of the urikite ambasador. From King Karax
+       - Stuck in the sand, shove and push it back to the road
+       - Get to sunset without incident.
+       - Make camp for the night.
+         - Food for the animals
+         - Share with the guards.
+       - Tyr is like Urik but More - Kalak is the king in Tyr - Is building a huge ziggurat - maybe finished when we arrive.
+       - Head in to get the water refilled.
+         - Skinny emaciated cook doles out water. - Quen
+         - Awake and need to go to the toilet...
+           - Faint gingling noise coming from the dessert
+         - Fail my save...
+       - Blue skinned gaunt 7ft tall creature - A frightening master to be heeded "come closer"
+       - Hit the creature - kill one
+       - Charmed, should take the requests in the most favourable way possible
+       - "Defend me"
+       - Bell-goi
+       - Each has a spear and scraps of meat
+       - 2 x waterskins and some bells looted.
