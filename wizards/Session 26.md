@@ -1,0 +1,25 @@
+# Session 26
+ - Level 8 
+   - Awake ready to face the army!
+   - Send Pod off to do some scouting
+   - Walk to a hill to look down, a huge circle of tents
+   - Big fancy thing appears...
+     - Lightning bolt the guys under the flag of parlay
+     - Cannon fire on the harbour master's keep
+   - Casting phantom steed from the staff
+   - Fly to the boat arrive there.
+   - Fireball the priest boat - filled with priests
+   - Beef throws a sythe at the boat
+   - Summon bunyip (animal 3)
+   - Bunyip dies 
+   - Drain bonded item to summon piranahs
+     - Piranahs swim to 90 ft from us (60ft from them)
+   - They set on us
+     - Solid fog
+     - Battlefield medicine
+     - Healing gloves on me
+   - All priests dead
+   - Beef touches the box and "dies"
+       - He is given the chance to claim power
+       - He wants the keys
+       - Phantom horse is still there.

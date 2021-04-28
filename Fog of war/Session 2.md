@@ -1,0 +1,29 @@
+# Session 2
+ - Decide to head back to the library to kip
+ - Try and get some sleep
+   - Skittering and scritching outside the door.
+   - Fight centipede
+ - Tattoo of mage armour
+ - Upstairs to the attic
+   - A servant's bedroom
+ - Look out of the window, lots of cloud and mist.
+ - There's a magical broom as they might animate
+ - Upstairs to the "magic" room
+   - Pick the lock 
+   - Kids room with a dolls house.
+   - Younger brother Walter
+   - Monster got the nurse
+   - Strahd talks to wolves and bats.
+   - Daddy is the monster
+ - Head down the secret stairs to the basement
+ - All the ghouls
+   - Wearing tattered robes, with a sigil in silver thread
+   - 11 gp and 60 sp with the strange symbol on them
+     - Share out the money
+   - Ivory hairbrush
+   - Exploring
+   - Statues of Straad and a wolf, Strahd is holding an orb
+   - All the shadows once we steal the orb
+ - Clay wall
+ - Sigil is the sigil of the demon lord that they worship
+ - Short rest
