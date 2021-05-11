@@ -1,0 +1,44 @@
+# Session 28
+ - Jackson, not from our village, mint condition - In the mornign there will be a snap graduation ceremony for the apprenticces above you.
+ - Prepare a speech there may be prize givings.
+ - Convey messages 
+ - Jacksons offer to make formal wear
+ - Sleep - Bad for Perkin
+ - Curse on Perkin getting worse
+ - Jackson get up for me 
+   - Take my robes
+ - Swap back to my robes
+ - Pathway is now open
+   - A magically hewn clear path to the 2nd years
+   - Cool, cozy path
+   - A stage is bing hastily constructed by the second year Jacksons
+   - Master Ambrose surveys the scene with Vicks
+   - 4 paths
+   - Vicks wonders if we should tell Antone
+   - Robe is pimped up by Sparko Tweak appearance
+   - Roger is wearing Antone's Dukal regalia
+   - Antone gets told about Gnar
+   - Temperance is less happy about Antone hearing about Gnar
+   - Ceremony begins
+   - Big dull speech
+   - Appear in a place
+   - Perkin doesn't have access to his shadow
+     - Shadow has 
+       - Keys
+       - Great sword
+       - Big nobly staff
+       - Piratical cutlass
+     - The Second Perkin appears
+     - More Perkins appear
+     - We fight
+     - We are on the shadow plane portals are likely to transport us places
+     - Perkin steps through and finds Death in the throne room
+     - We decide to free it.
+     - And do so...
+     - Loot - the bits are all horribly cursed
+     - Use the nerrid to transport us... - 
+     - Jolt back awake at the end of the speech
+     - Ready for the prize giving
+     - We might have not done the wrong thing?
+     - Roger hands over the wish scroll
+     - 

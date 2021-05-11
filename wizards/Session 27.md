@@ -5,4 +5,40 @@
  - Use the Merrid to get to the harbour
  - All the priests have gone to the monestry
  - We head to the palace
+ - Guard sent to see if the Duke wants to see us.
+ - Duke and an impressive looking soldier (with a flag of parlee)
+ - The Duke asks us to cease hostilities
+   - "We are outmatched"
+ - The alliance is not "yet" disolved. Any further violence will only sour our parting.
+ - Tell him we've stealing the keys and have pushed the box in the water.
+ - Look forward to repeating this conversation in your neck of the woods
+ - Head up to the monestry
+ - Flags raise up semaphore and then soldiers show up.
+ - Monestry has been sat on by a dragon
+ - Signs of a fight outside
+ - Stained glass window broken
+ - Dragon turns up 
+ - We decide to head to the town and then home...
+ - Roger and the posing pouch in the bath
+ - Food
+ - Ambrose and 3 people, one who's small, one who's human (big burley), a kobold
+ - They are replacement us
+ - Vicks has made it back
+ - Go and join Perkin in the bath
+ - Illusion, evocation and conjuration lessons suspended.
+ - Discuss with Ambrose 
+ - Transmutation with Jonus in the morning.
+ - Mr Crab has gone
+ - Morning roles around
+ - Discussions about homunclous
+ - Summon homunclous from the staff
+   - Gather the materials to make a homunculus
+   - Find the book that has the materials in it.
+ - Head to the old school
+ - Learn how to cast animate object as a ritual
+   - https://2e.aonprd.com/Rituals.aspx?ID=1
+ - Well past midday 
+ - Meet the Jacksons
+ - Cone of cold has broken 
+ - Healers gloves don't help Perkin
  - 
