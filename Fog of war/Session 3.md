@@ -1,1 +1,27 @@
 # Session 3
+ - Discussion about the orb
+ - Into the bedroom
+ - Wardrobe has servant's clothes
+ - Chest has personal clothes
+ - Leave the orb on the chair in the music room
+ - Wander around, but there's no food
+ - Ivy an berries (that are eyes
+ - A really nice dress
+ - Woman dressed as a nanny - who is undead
+   - Make her my favoured foe
+ - Baby swaddled in blankets, is just a bundle of blankets.
+ - Back down to the basement and fight the rats.
+   - Death saves (again)
+ - Look outside, try the mist, is very cold and uncomfortable.
+ - Read some books time passes.
+ - It gets dark outside
+ - Discuss the plan as to what to do with the tattoo
+ - If it fits it sits
+ - Orb - only when picked up by a living creature
+ - Back to the basement
+ - Rats and there are more rats coming
+ - Door that's a mimic
+ - Go down...
+ - Grick
+ - Short rest
+ - 3rd level - Decisions

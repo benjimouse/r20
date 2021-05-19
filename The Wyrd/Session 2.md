@@ -1,0 +1,159 @@
+# Session 2
+```
+Francis was a child at the siege of Colchester (1648) where a parliamentary town was taken by a royal forces and then besieged by parliamentarians. When everything felt lost when he was down and despairing, he had a certain feeling that it was all going to be ok. He knew if he just knew how to move his family out of the city he knew when to run and when to wait so they could all get out safely.
+```
+   - Nicholas - singing 
+   - Francis - 22 short with a big nose
+   - Agnes - androginous, quiet
+   - Oliver - Huge, intense busy eyebrows
+---
+ - Sleep well
+   - Nice weather
+   - Windy over night
+ - Still on the island all the tents, the tables, the food disappeared.
+ - Slept very well 
+ ## Welfare chit - well rested
+  - Summer storm on the way
+  - Island sits at a branch in the river, 2 uprivers, 1 down rive
+  - 1 up river, where we came from
+  - 1 up river, towards a heavy storm clouds
+  - Down river heads in another direction
+  - Decide that heading up river to the storm clouds - Which is dangerous but possibly more rewarding.
+  - Oliver rows bit of surge to the river.
+  - Starts to get warmer
+    - Time is odd
+  - Is that the place is getting hotter or is it me?
+  - Wine bottle bobbing in the water
+    - Thick white wine bottle - Brisk Champagne "English sparkling wine"
+    - Nicholas has a big swig of champagne
+    - Champagne cheers us up 
+  ## Removes Sad
+ - The champagne doesn't run out
+ - Nicholas says praise Satan
+ - Oliver is a little destracted. - Someone talking into his ear
+ - "If you can hear me, bring any artifacts to Bristol"
+ - Champagne is not getting us pissed
+ - Row on, starting to become a bit of effort
+   - Chatter coming through the ear about the stock of the bibilo shop
+   - Wide brimmed ladies hat
+   - Was Agnes's mothers hat
+     - Hat disaproves
+   - In the storm clouds, rising out of the ground there is a figure, human ish, babushka doll like, outlined in the firey red, might have 4 arms or 4 eyes looks menacing.
+   - On the wind, distinct tolling of a church bell from the way you didn't go.
+   - Spend the haruspex chit - 
+     - If we hadn't gone up here others would have found these things.
+       - Carrying on up here is really dangerous, because we don't know what we're doing
+       - Something horrible at the end of the river
+     - Where as heading in the other direction will probably mean that we have alsorts of people interfering who might help, not hostile, but have their own agendas.
+   - A copper cauldron  / cooking pot
+   - All the things have bumped into the 
+     - There's a thumbscrew inside, that has an o scrached on it
+     - Thumbscrew is Oliver's
+     - River surge taking us back the way we came from
+     - All four things are wyrd and have a connection (weak) to one of us.
+     - All of that storm is connected to us four.
+     - Maybe four hands
+     - "We are storm"
+     - Surge carries us back to the fork, where the island is, can still hear the church bell from down river.
+     - There's a musical instrument from the island.
+       - 2 people standing byt the beach tree man and woman that we don't recognise.
+         - Trousers and a shirt on the woman. - Completely outragous.
+           - Playing a siver trumpet
+           - Clean and "well dressed" though quartered page outfit
+           - With a traveling scruffy tinker
+           - There's another river from a slightly different direction.
+         - Heading towards the secret river. - Which is upstream
+         - Decide to head to meet them - they look friendly
+         - I'm the numismacist - No, he is the coin clipper
+         - She is strumpet - silver trumpet
+           - The trick is... Don't get caught 
+           - Tell you what we're here for for a description, Silent bell is what she's called
+           - Wouldn't mention that to too many people becuase Silent bell is supposed to be dead along with all the disciples of Dr. Fabular
+           - Dr. Fabular was dismembered and burnt at the London stone which if you're like us 
+           - That is an effemera storm - all sorts of stuff that gets stired up and deposited, there will be bibilo, things and events and constructs. All collectable.
+           - Knowing that was happening we came to see what we could find
+           - But it's really big and really dangerousT
+           - Things that you can make work for you, always to do with people.
+           - A combination of people and events can turn things into effemera
+             - Cooking pot is a piece of effemera. Won't stay in existance unles you somehow make it stay - then it's a Bibilo if everyone is dead then it becomes a lot stronger - bygone or an artifact.
+             - Turning and effemera into a bibilo isn't easy
+               - Most common way a pericapy - spell that uses words - quite easy.
+               - Lots of other ways
+## Use cauldron with water to scry
+ - Don't mind teaching you it for the good will
+ - Need a form of words that will usually rhyme / be in some kind of meter most easily done by someone it's associated only works on effemera that could be turned
+ - Must describe the thing, the context of why it's important and the relationship.
+ - Put yourself into it / got to mean it.
+ - Spend a narrative ark point for the bibilo rhyme
+ - Hangs off wyrd
+ - Effemera will fade when you go back to the orthodoxy (or at some other point)
+ ``` 
+ This cauldron kept our family alive
+ Dreadful things cooked so that we would survive
+ My mothers cooking tasted great to me
+ And better than it should be
+ All fed from this got out and did thrive
+
+```
+ - A small carved wooden chest is bourne on the surge
+ - Sent silver shillings
+ - Oliver carves into the tree and can speak - plus complications
+ - Not going to be able to udoe the agents
+ - That storm is all to do with us four...
+   - Events makes them start - Caused by our tourture and usually swallowed by the milestones
+   - Ask about names, - It's just what we do
+   - Have made the cauldron a biblo
+   - Agnes is put up and on a branch that breaks
+   - Nicholas goes for biblo on the bottle, once a session chit to cheer people up, will always have liquid in it.
+   - Decide to head downstream
+   - There's a bit of a surge, building up...
+   - Carries us down stream, but only slowly.
+   - Getting stormy dark, wind gusing.
+   - Difficult to keep track o time a bell tower, comes into sight, no church.
+   - Head to the tower, verticle Norman tower.
+   - Silent Bell is up there with the bell.
+     - At the bottom of the tower is a figure in a blue dress with yellow boots
+     - Their boat is pulled up, with the hand at sb's belt.
+     - Working blue flowers and heather into a milk
+   - Her name is Fabia
+   - Bits of broken mirror 
+   - What was ragged tear doing, got caught on purpose
+   - Someone else has done something - other things going on.
+   - A fair few people would only have done that if you'd managed to be friends
+   - Other efemera - relationships to things
+   - Can make other effemera your own - ubiety, doesn't have a fixed place.
+   - Someone has bound bits of us as effemera and someone has made it their ubiety
+   - Would have needed to be powervul
+   - Us getting away caused it
+   - 2 big orthodoxy Cromwell's and the Kings - Killing us in London would have meant 
+   - Would be unlikely 
+   - Witchfinders do.
+   - Milton knows what's going on.
+   - They are sincere in what they're doing.
+   - Make your own choices, the storm will be dangerous and the ubiety will just kill us all.
+   - River leads to where we live, which is a pretty much abandonned village in the fens, old cottages, and a local vicar who everyone loves, don't go to the manor house.
+   - This bell is "her place" she's making sure nothing gets out into the village.
+   - Thing is right at the back...
+     - Possibly some time
+   - Will have to do something about the ubiety
+   - Likely to be different - It always depends 
+   - Not my secret to teach there is a bit of $$
+   - Silent Bell knows useful things, lots to do with her bibilo
+   - Can't stay out of the orthodoxy for too long, or things go properly wrong
+   - This is a route that Silent Bell
+   - If you're in the orthodoxy then
+   - We don't have any rules and you'll need to look after yourself, we try to be friendly and cooperative, you should to.
+   - Take the things the rev'd tells you seriously.
+   - Silent Bell Very potent Ubiety one of our Efemera and it's our storm, there's more efemera in that storm.
+   - Few bits will make it to the village
+   - We could stay here, possibly bind or learn things from the effemera.
+   - If we head to the village, some bits might blow through, a more controlled way of doing it.
+   - The best place to be is courageous but not fool hardy, 
+   - If you ring the bell and put some effort into it it might calm the storm
+   - You don't want to fight the ubiety. We really need to find out who's it is.
+   - How do you get out of the orthodoxy - Stone henge, wood henge, old sarum, know where you're headed to.
+     - Eventually you'll be able to do it anywhere.
+     - Milestone in Bristol will Fuck you straight away, doing magic near a milestone is almost impossible. Silver trumpet 
+     - Plan is to stay and catch what we can.
+     - Fabia Gives Agnes some goop, which will make it hard for you to burn.
+   - Oliver gets the thumbscrew as a Bibilo 
