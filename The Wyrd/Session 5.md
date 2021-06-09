@@ -1,0 +1,90 @@
+# Session 5
+```
+Nicholas
+Agnes
+Oliver (York)
+Frances Brace
+```
+ - Plan to go and talk to posh sweary lady
+ - Standing outside the church
+ - Go to the garden to find Fabbia
+   - She's singing a little ditty - sounds a lot like the one Ribersil was singing
+   - Everything is growing out of season
+   - Garden is in two parts, lower area and a bridge to a second similar bit of garden wooden port cullis door on the far side of the bridge
+   - I know the gardening song
+   - Seems alright here
+   - never been in the other bit.
+   - We head over to the bridge
+   - Cottage in the back wall.
+   - Cottage is very faded, looks like it was once quite nice, but now not so much.
+   - Longer abandoned than other places
+ - Head to see the posh sweary lady
+ - Still the dog is there 
+   - She is red testement
+     - We're kind of trying to re-establish this place
+     - Bring me one of those paintings (I think there are 3 in the town, one's here)
+     - Paintings by the mystro of sin also interested in the woodcuts
+   - See some movement
+   - Past the pool, which is very (very) deep)
+     - Fisherman's huts, all look in good condition
+       - Woman in her 20's sees us
+       - Big guy opens the door, dressed in ok clothes, affluent poor
+       - I'm Nick, here with Silent Bell, some other people come out
+       - Silent Bell was looking for you.
+       - Hannah (40) and Reginald (20) Molly and Rebecca 
+       - There's been things going on, don't know where the rev'd is - He just walked out the village, without his dog - Gave us a cheery wave
+       - Yesterday this "thing" came out the water
+         - Water standing there full of eyes and ropes that tried to drown me.
+         - Think it went up to the two artes boys
+           - Who stay with the rev'd or the workshop behind the church
+           - 2 people came over the bridge early during the day yesterday , push red dress and lots of red hair and someone with skins.
+           - We manage to stay out the way.
+           - Was teh rev'd who summoned something in the church
+           - Spaniel BoJo 
+           - Molly goes in and comes out with fish on a rope - smell of day old fish
+           - Debt and money ways to make people do what you're told, you're expected to do what you're told
+           - You have to do what you're told
+           - Welcome to come and have dinner here, Rebecca - "I'm really worried about the vicar's 2 boys"
+           - Hannah is clearly someone who's used to telling someone what to do.
+           - Let's go 'ave a look for the kids
+           - Workshop clearly formerly a barn, benches covered in stained glass
+           - Figure sprawled in the floor
+           - Really obvious blood trail form in there across the road
+           - Definitely a body
+             - Some statues, some blocks of stones that might one day be statues
+             - Wooden statue
+             - Disassembled stained glass windows
+             - Big pile of led
+             - Big cruicible and furnice set up
+             - Body is a young
+             - Rope marks round his neck, a bit damp, bit of water, dead and cold
+             - Big pig in a color eating a corpse
+## Spend where path ends chit + fortune point + Well rested
+ - Pig eating a corpse 
+ - Sty door looks like it was broken down some time ago
+ - Body looks like 
+ - Pig wrangling
+ - Nicholas heads to Fabia
+ - Pigs colar gold and silver "Princess Trotters do not eat or annoy"
+   - Very high quality
+ - Let the fisher folk know
+ - Head to Silent Bell's via the library
+ - Into the library - an absolute mess, not an overgrown mess the place has been smashed up in some way. There are a lot of books 50 - 100, some torn, all scattered around.
+ - A broken up laboretory - lot of detritous and things
+ - Single block of stone with names carved into it, block is much bigger than 
+ - Could be a lot 
+ - 1 column and one name 
+ - Profunda Rosa
+ - Lilly maiden
+ - Red Thomas
+ - Homo emeria Dandy
+ - Hydromel
+ - And others
+ - All sounds familiar to Fabbia who doesn't think she likse the lilly maiden
+ - Agnes wyrd chit - a jar behind a shelf and some of the other jars are all wyrd
+ - Some kind of homunculous in a jar
+ - Look for the other jars (3 bigish ones)
+ - Milky / yogurty things in them
+   - That's pout (the stuff you make homunculi out of)
+ - Head upstairs, it's all been ransacked, a coridor to a set of rooms, each with 2 beds in them. There are wardrobes and linen storage chests. Looks like the people packed, but still pleanty of bed linen.
+ - Find another painting
