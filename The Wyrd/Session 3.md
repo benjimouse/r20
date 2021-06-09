@@ -64,7 +64,7 @@
 - Ouside it's starting to get proper dodgey
 - Decide to head through the storm to get the books fo rAgnes
 ## Cathy takes me through a safe route to the books
- - As you are  going down stream teh efemera 
+ - As you are  going down stream the efemera 
 ```
 This cannon ball once nealy killed me
 But surviviing it made me quite carefree

@@ -1,0 +1,158 @@
+# Session 4
+ - We sleep and wake up in the morning.
+ - Everything is very very still and flat
+ - There is amound that we're slowly drifing towards, definitely a village of sorts.
+ - Flat landscape cris crossed with rivers
+ - Think we're in the orthodoxy
+ - As we get closer to the village, an see a fairly bigish village with a couple of stone towers, manor house, a norman church.
+ - Don't see any people, looks like the back end is higher, we're aproaching from the bottom
+ - Looks like it's in the middle of a lake.
+ - A jetty with some sunk fishing boats.
+ - Another jetty with a couple of boats
+ - A stone arched bridge that joins on to a bit of a causeway.
+ - Water might become a lot higher
+ - Round this side seems to be mostly seawall.
+ - The boat is cruising in a certain direction
+ - Head to the sunken Jetty
+ - Someone singing and a man in a breastplate
+ - Man in breast plate starts to walk towards the jetty we're coming in
+ - Looks Tudor breast plate, dented and old, but not rusty, a long straight sword.
+ - Wearing clothes that are a long way out of fashion, horribly pock mar - Sir John
+ - Silent Bell can't talk to you at the moment, there is trouble, there's been trouble.
+ - You are welcome to stay in teh village, if you leave the village, you are not welcome to come back 
+ - Everyone's goneif anyone comes here, everything is normal or nobody leaves alive.
+ - There are people who don't belong in the village who are here 
+ - the few people who lived here are gone
+ - If people come here everything is normal or everyone is dead
+ - A walled compound an overgrouwn compound, a very old wall, with a stone at an angle, covered in cletic style carving.
+ - Have a feeling of "I've got there" that journey is over.
+ - Shops are all a bit broken, there's been a fire some time ago.
+ - Inn looks abandoned - picture of two swans, having a fight over something invisible between them.
+ - Let's try the inn.
+ - Sir John is wearing a great deal of perfume - a heavy stench of lavendar
+ - The bell tower looks to be made of differnt coloured stone is really bright, when you're looking at it, everything stands in
+ - Inn is obviously very abandoned
+ - Big inn, sort that should be on a major thoroughfare
+ - Flagstone floors
+ - A big bar, lots of bottles, dusty, tables not wrecked, but abandoned, one corner that looks like it's been in use, a non dusty table and some mugs.
+ - Some dice on the table.
+ - Head upstairs
+   - Almost another common room, passages off to rooms.
+   - A bit damp smelling and daylight through bits of teh roof, mildewy smell.
+   - A fair bit of bed linen, and the dap has got to it.
+ ## Spend fortune point on getting some clothes - Sturdy 
+  - Get dressed
+  - Add some foot wraps
+  - Get a bit of a fire going, looks quite nice.
+  - Has been lightly looted
+  - There's no easy source of firewood
+  - Head to the kitchen 
+    - Some sacks, not a lot that's 
+  - Cook up a dandelion and beer stew
+## Spend Cauldron chit to make stew, so that it doesn't 
+## Nervous affliction goes down
+ - Tend not to allow 
+ - Is Sir John strictly speaking a person?
+ - Decide to head to the garden
+   - Can hear some singing of someone singing to poisonous plants 
+     - Person is Ribesal (referring to herself in 3rd person)
+   - Is overgrown, with a little cottage, thatched roof, in quite good shape with an occupied shape to it, poppies in a window box and other plants.
+   - Early spring, very unseasonably 
+   - About 3feet tall, and is the strangest thing you've ever seen
+     - Not a natural creature, but is a creature, my impression is quite friendly unless crossed, and if crossed would probably do devious horrible things to you, poisoned or stabbed in your sleep, fairly simple.
+     - "If you need to poinson someone..."
+       - Get Ribesil to describe itself
+       - Head of an infant my nose has been fashioned for pleasure.
+       - Do you know where the darling Bell Sam is? 
+     - Lots of people went away when the darling bell damn went away 
+     - 10 winters ago that the witch hunters came.
+     - Sometimes silent bell, if people who didn't live here
+     - Sometiems the fishermen come for milk of the poppy
+     - And the Rev'd boyfriends sometimes come
+     - The rev'd was here a few days ago
+     - I knew sir John when he was alive, Dr. Fabula - sent quietus and Sir John to london to stop them building the cuts, but the witch hunters found them, he was even more dead when he came back
+       - More than 10 seasons ago
+       - There was a big battle
+     - Silent bell arrived last night with Fabia (who lives in the village now)
+     - Things in the garden are growing a lot better inside.
+     - Walk the long way round past a nice 2 story building (unusual due to lack of stone) (Library)
+     - Derelict cottage witha another walled garden
+     - Stairs leading down on the left
+     - Bridge between to gardens, all in a couple of feet of water
+     - An Obelisk a cobbled court yard
+     - Wagons in the wagon
+     - Cobbled village centre
+     - Tower is sitting in a little area of cut back grass.
+     - Looking at the tower it appears to be in shadow with lights
+       - A little set of steps into a recessed door.
+       - There is a (church) bell in every arch...
+       - Call oliver "York"
+       - Big heavy iron knocker in the shape of a bell, very loud, but there isn't any answer
+       - Sweary posh lady, looking for oil paintings, promising to "fuck us up if we interfere"
+     - Meet silent bell and Fabia
+     - Tell them about that the lady there are some quite powerful satanic artifacts if she's looking for those things then she's probably not of the orthodoxy.
+     - There is a hell hound that protects that courtyard, that she's got passed somehow.
+     - No one's been in there for 12 years
+     - Would you like to come in for a bit of wine and a chat.
+     - Head to the tower, big open plan kitchen, well tended, but not lived in for a while.
+     - We can stay in any of the abandoned buildings.
+     - 40 / 50 years ago, we're in the fens there was a little bit of a village, Dr.Fabularr came with some other people Quietus killed everyone here. 
+     - It got built up as a bit of a haven in the middle of the fens, Sir John was a member of parliament - Scrimshaw brought sir John back with the idea of going to parliament and saying "nothing to see here"
+     - Quietus was him and they got caught, Duke of Bedford had a commission adn control over the fenlands adn was going to build a big cut to drain the river ooze
+     - Dr Fabular went to London was caught and then some witchfinders came and started to attack. The place was a bit too much for them. Here is a bad place for the orthodox lot...
+     - We think that they believe all of Dr. Fabulars places.
+     - We're between the old cut and the new cut.
+     - We need to wait at least a month between using the druid stone. There's a risk of ceasing to be 
+       - It would be good if this place became a community again.
+       - Something else that I'm not going to explain.
+       - The rev'd has gone.
+         - There's someone else in the village who does not want to be disturbed.
+         - There is a night watchman, we'll need someone to introduce us.
+         - The streets are very safe at nicht if you belong here.
+       - Oliver speaks in the voice of patience
+       - How do I get to somewhere I can buy some shoes.
+       - We really don't want you coming back if you leave the village
+       - The intention was that this would be a thriving place where people who needed somewhere to come could come.
+       - Probable that the drains are blocked.
+       - Rev'd 's 2 artist friends
+       - There are some other people who I might be able to get and sent back.
+       - The mystro of sin - did wood cuts and oil paintings, there were a few around town.
+       - Hell hound has teets
+       - Might be able to teach us a way of disguising ourselves.
+         - Fabia might be able to help with us having been beaten up.
+         - Will do that this evening.
+       - "That's the favour"
+         - I will do everything to keep her safe - Nicholas
+       - Might be able to teach us cantrips, little songs that do stuff.
+       - Is there anywhere else we should stay. 
+       - The church is for everybody, the vicarage is nearby.
+         - Possible that his artist friends.
+       - Woodcut was the mystro of sin's apprentice
+       - Filigree worked up there, and died at the battle of the cut (as did pretty much everybody)
+       - Scrimshw is here alive but just bones.
+       - Dr. Fabular "Everything taht was god or satan was a person and possibly a ubiety that was left behind. There are diffent orthodoxies.
+       - "Start with finding some place to live etc."
+       - Perhaps have a look at the church.
+         - We'll do you duck and pickled onion
+       - We need to sort out food 
+       - Silent bell will leave the door unlocked 
+     - Head to the vicarage / church
+       - Housing in the sink is quite rough...
+     - Church and graveyard, overgrown statues and crypts
+       - Church the door is open, most of the windows are gone, there's one left showing Jesus doing something.
+     - A well maintained cottage, that's well maintained with an orchard.
+     - Also overgrown fields
+     - Knock on the vicarage and shout. Shelves of books, a table, looks really nice (twee)
+     - A larger with a loaf of bread and some cheese, recently inhabitted.
+     - Bedroom is completely different in tone... Rather racy pornography, looks like a brothel / boudour
+     - Church is a Norman church, pews, cubby holes for shrines, space for a big stained glass window at the back, not clear if it's catholic or prodestant, bit more CofE of the era.
+     - Big cross, Middle of the church is a huge magic circle with wyrds symbols and piled up are bones.
+     - Windows went out cleanly
+     - Were magic circles, not any more, someone a day or two ago did something, a demonic conjuration to get somethign into those bones.
+     - Being from crossroads is solomons key and solomons seal, you need an idea of what you're going to summon.
+     - Rev'd went at about the right time
+  ## Spend my wyrd chit on the circles, they were summonning
+ - We could head back and chat to people 
+   - One of the pictures is a little demonic
+     - And a whole different quality, masterfuly executed.
+     - 

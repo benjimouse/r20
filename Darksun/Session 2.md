@@ -1,0 +1,40 @@
+# Session 2
+ - A dream about Funir (Dad)
+   - He said I'm taking you to meet someone - who?
+   - A kind of spirit (you know him already) but to you Gratz he will be a stranger
+   - "You must understand teh earth that we tread has power from all the elements , the land is broken and suffering this power can manifest as a spirit"
+   - I've bought you here to see if you a ready.
+   - Leads us into a cave entrance, a fairly large cavern with a shaft of light and a whistle of air
+   - Garex and Basha kneel, energy flows towards me and the power of the entity thrums and assesses me, there's a voice that echos to everyone. "Do you consent to be a champion of the land?" - Yes
+   - "To you I give my rage"
+   - Grants Garex his spirit
+ - We wake
+   - Mount up we're leaving in 5 minutes
+   - We mount up and are off
+   - There are guards
+   - We ride forward of the main caravan
+   - The main outriders have already gone ahead
+   - Head out to join Erazo
+   - Decide to stick with Erazo
+   - Find an emaciated elf body by the side of the road asking for water
+   - Give him some water.
+     - he knicks my money
+     - Throw the javalin
+     - Get him back.
+     - Fight the elf
+     - Get two javalins.
+   - There is a dragon - "The Dragon"
+   - We ride back, people are 
+   - The Argosy heads round a corner and we hear shouts.
+     - Gith attacking the Argosy
+   - Erazo was a bit sheepish
+   - Concern about the hyena / Garex
+   - End of the day
+     - Fills up the skins - It's salty
+     - All the barrels seem to be salty
+     - Purify food and water - it's just a bit odd
+     - There's salt missing from the store
+     - Waterskins properly filled.
+     - Big Dog - Is the hyena's name
+     - James does some sneaking around
+     - Sleep - long rest

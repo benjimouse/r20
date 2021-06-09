@@ -1,0 +1,31 @@
+# Session 3
+ - "Breakfast" - Quin master of stores.
+   - Inix meat in kank honey
+   - Been compliments about the water
+   - General meeting line up behind the caravan 5 minutes
+     - Everyone is there
+     - Today we'll be traveling longer than normal to Silver springs the oasis
+     - Don't go into the passengers rooms
+   - Today is going to be a hot one
+     - Proper silly hot (55c)
+     - Inix heads off towards shade
+     - Walk it back to the Argosy where it ends up in teh shade.
+     - Hours pass - 2 hours to go
+     - Sun is low in the sky
+     - See a settlement
+       - Elves by the side of the road
+       - What is your business 
+         - We wish to buy water - None for sale
+         - You may rest
+       - Bit worrying that there's no water
+       - Unusual not to have any water for sale
+       - Elves show us to an area just beyond a village
+       - As promised, well done for today I'll be opening up that cask of wine
+       - A cup of wine
+       - Have been drugged
+       - Am asleep
+       - We're about to be attacked
+       - Hotep attackes Garex
+       - Garex runs off
+       - Tying everyone up
+       - In with Erazo and Gratz
