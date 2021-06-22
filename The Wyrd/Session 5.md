@@ -88,3 +88,67 @@ Frances Brace
    - That's pout (the stuff you make homunculi out of)
  - Head upstairs, it's all been ransacked, a coridor to a set of rooms, each with 2 beds in them. There are wardrobes and linen storage chests. Looks like the people packed, but still pleanty of bed linen.
  - Find another painting
+ - Leave the jar and the pout behind
+ - Get back to the tower
+ - Tower is still gloomy, but now everywhere else is as well
+ - Can hear soft but big bells
+ - Sit in the kitchen / come dining room, fish and vegetables and pans and things
+ - Start making dinner
+   - Night watchman is only on the streets
+ - Fish and vegetable stew
+ - Silent Bell comes down tell her a few bits
+ - Bells were being asked about rev'd
+   - He did summon what he wanted, but not where he wanted it, he is alright.
+   - Sounds like she's here to loot
+   - That painting was in the university - there was a proper fight in there.
+     - Rosa died
+     - Most of the students didn't got to the Cut because they weren't strong / old enough, Lilly maiden left.
+     - You can make pout into all sort of things, hands / ears 
+     - After dinner wander
+     - There is a pool of complete darkness by the well, in the middle there s's the light from a lantern
+     - Introduced to the night watchman
+     - He has seen the monster and driven it off
+     - The monster was a sending - a ubiety you can hear
+     - Two others one who has been here a long time ago.
+     - They have stayed indoors at night
+     - Just shout to acall you
+     - Not normally that chatty
+     - Silent Belle takes the painting
+     - Go to visit the fishermen, they're not very chatty.
+     - Make sure the fisherfolk get told that the night watchman sent of the monster
+     - Spell to summon stuff by Nick
+       - An old face down corpse wearing a brigandine coat
+       - 5 or 6 swans on teh water looking at you.
+       - Everythign is waterlogged, corpse falls apart
+       - Head back to the tower, which is gloomy still
+       - She doesnt' want us upstairs
+       - Moderatly 
+  ## Champagne happy 
+  ## Well fed
+ - Morning
+ - Fish and vege broth for breakfast
+ - Fabia might be able to help
+ - Head to the library / university to make tongues 
+ - First to see Red testement
+ - Nick is proper charming
+ - "I'm going to come out"
+ - Slender and petiti woman, a lot of red hair, all of her outfit is red with flashes of gold
+ - Tattos that look demonic down one side of her face, very precise and ink drawn.
+ - She has a shoulder bag with "stuff"
+ - Instead of killig yourself fuck up the witchfinders
+ - Take her back to silent belle's wood cut plates and a rolled up painting which she unrolls.
+ - Does know something about the monster, someone out at sea killed some of us and made a potent ubiety from that act. Made up of things from that act.
+   - That was done again recently just recently
+ - The rats are (according to Red Tempest wrong uns) to do with ratskinner
+ - Sometimes the right moment comes 
+ - What do they do, probably better seeing if you can find out yourself
+ - 4 of us (all bar Nick but in Fabia) head to library  / uni
+   - To play with pout / try and figure things out.
+   - Once you've got the pout making the thing is heating it in a mold, there are a bunch of body part molds...
+   - Perhaps mix some blood in to make it part of the pout wil take a bit more reading.
+   - Look through the molds.
+   - No ear
+ - Had thougth that it was still warded, might have worn off 
+ - Fabia says that we should probably sort out Princess Trotters
+ - Princess trotter was philagree's pet
+ - 
