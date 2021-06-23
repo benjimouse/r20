@@ -1,2 +1,92 @@
 # Session 5
- - 
+ - Heading to the tavern, houses are boarded up, but lived in. Festooned with sun carvings.
+ - Some are derelict, all have claw marks on them
+ - Main street, used by carriages.
+ - Something wierd and strange has happened with space.
+ - Blood *on* the vine 
+ - Not a lot of people present.
+   - 3 heavily armed elves playing cards
+   - A large chap behind the bar - doing barman type things
+   - Human male , 25 - 30 ish wearing a rich frock coat
+ - We have no rooms, but there are lots of empty houses
+   - Barovia - name of village and land
+ - How do you get back through the mist? - You don't
+ - Lord is count Straad
+   - Who's been around for a long time
+ - Often visitors go up to the castle
+ - Priest up at the church - Lathander
+ - Store across the way
+ - Ismark takes to his house, knocks in a sort of coded knock.
+   - A woman opens the door who is strikingly good looking.
+   - A once richly appointed house, now run to ruin.
+   - Sister Irena
+ - Not sure what creates the mists, anyone who walks out into them tends to die.
+ - Don't know where it was before the mists, but I think it is now his own place.
+ - Straad 
+ - The Vistaani (the elves) have a way out, because they work for the count. Unlikely they would help you.
+ - Vistani own the inn
+ - I've got a favour to ask - "My sister, who you've met, the count has taken a liking to her, which never ends well" - "I've been trying to convince her to move to valaki, but our Fater died (she was adopted) the priest Adomovich, she refuses to leave until her father has been buried, but the priest is indisposed." - Won't come to the door.
+ - There are things that we need - "Could do with a shield..."
+   - Might be one in the store?
+   - Worry he's been killed and turned into something horrific.
+   - Can pay you 50 gold between us.
+   - Perhaps rest and then in the morning.
+ - Dinner is served - plain food, not a huge amount of variety.
+   - Wine is quite good
+   - Shown to rooms
+   - Long Rest
+   - Told about a long procession of ghostly spirits.
+   - New tattoo and activated.
+   - Bildrath's general store - A proper rip off
+     - Large young man - late teens
+     - 1 sp for powder
+     - 4 cp for a shot
+     - 20 gp for the coat
+     - 25gp for the hairbrush
+     - 2 coats - for hairbrush
+     - Slightly fancy coat
+   - Arrive at the church
+     - Solid oak doors, with scorch marks and clawed scars.
+     - Properly messed up priest
+     - Try and help him
+     - Take him outside and teh sun seems to help him
+     - Strahd came and took his son.
+     - What's he done to your son - Turned 
+     - I don't want you to kill him.
+     - He talks to me at night
+     - Anything we could do to help - tidy up?
+       - Tell us abit about your god, he brings hope out of darkness
+       - Prayer and surmon about Lathander
+     - Actually start to tidy up.
+     - Bless cast on us
+     - Head back to the manor house
+       - Normally what happens is that someone is turned into a vampire
+     - 3 kinds of vampires, Strahd - silly powerful and a vampire
+       - Sometimes turns other people into vampires
+       - They retain their personality, but it's normally quite twisted
+       - Others become spawn - behave like animals
+     - Vampires can turn into wolve and bats and rats
+     - Coffin is carrid down the road to the church
+     - Ceremony is carried out and the body is being interred
+     - Offers of help
+       - Hand sprocket
+     - Offer to help take Irinia to Valaki - bigger town, more people, more defences, more people.
+     - Procession is ghosts of people who tried to overthrow strahd
+     - Only people with any kind of will is adomavich the priest - arak in the in is in the Beldrath in the shop. 
+     - Maybe we should have a chat to the Vistani
+     - Head to the inn
+       - Join the Vistani
+         - Stilton asks if there's anyway we could be paid to take us there.
+         - "I don't think you can afford to pay me enough to get us to the sword coast."
+         - 50,000 gp
+           - I would accept the Blackrazor sword
+         - Apparently in the hands of a silver swordsman
+       - It's probably on the astral plane.
+       - It's a lot of effort
+       - "I would hope to be turned into a vampire"
+     - Head back to the manor house
+     - Discuss plans, middle afternoon
+     - Decide to look round a house
+       - Zombies, zombies, zombies
+       - And a ghoul
+     - Planning to head back to get the 
