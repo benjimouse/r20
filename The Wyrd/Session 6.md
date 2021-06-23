@@ -1,0 +1,120 @@
+# Session 6
+  - Oliver to build a barracade
+  - Rest to head to university
+    - Red testement heads to the university with us
+    - Definitely some missing
+    - Pout comes out really pale
+    - Find a book that talks about making homunculi / could make a homunculi into a mold
+    - Find something that starts to explain how pout is made, proper balance fo the 4 humours - Beyond Agnes
+    - Into the afternoon
+      - Finds a handwritten journal, 
+        - Lot of surgical diagrams and notes.
+        - Looks proper beautiful
+        - About fitting things from an asortment of sources, eyes, hands, mostly surgery that would require someone who knew what tehy were doing.
+        - Gem stone eyes that look like they're reasonably straight forward, mostly that 
+      - When growing a homunculous you'd grow it in a dead animal's womb.
+    - Red testement goes off to be by herself
+    - Will need to be a low controlled heat
+    - "Think it's quite dangerous, this building. Don't really want to tell you why?" 
+  - Red goes to have a look in case there is any firewood at the artisans
+  - Head to tithe barn, which is mostly empty
+  - Head to the shops, which are all a bit grim
+  - Decide to head back to university via the sea wall bump into Fabia
+  - Open the door and the place really stimks
+  - A smear of shit and a jar of pout are missing shit 
+  - Head up teh stairs, to a bunch of dorm rooms.
+  - Clearly when people left they packed, no shit up there... Nothing particularly disturbed.
+  - Under the rug there's a trap door.
+    - Nick summons a snake
+    - Sends it down there's a wooden trap door set in a stone floor, there's a lot of shit.
+    - Heads down into a basement, bedrock, there are other ways off the basement.
+    - An aweful smell of shit and burning shit the cellar is flooded by shit
+    - Nick jumps down into the water
+    - Oliver follows him
+    - They head down a passageway
+      - Water gets deeper
+    - Head down another way and there looks like there might be someone else
+    - They find a scarecrow, wearing an odd assortment of clothes
+    - A woman - "Go away or I'll get my rats to eat you and take yourstuff" - "Tell Red T she can fuck off as well" - "I like smearing shit over things" - "Not interested in the library any more" - "Snakes vs Rats discussions"
+    - Idea to put stuff on the trap door
+    - Do a quick clean of the library 
+    - Get the big heavy table on the trap door
+    - Head back for dinner
+      - Vegetable and fish stew
+      - Last of the firewood
+        - not hungry
+      - Red Testement arrives, and talks about the shit - probably 
+      - Tunnels that are flooded all under the village
+      - Red thinks the scarecrow was creating the warding, she might disturb it.
+    - After the battle of the Cut a fight in the university a lot of ubiety which were bound by Dr F in a way that sealed the library. The scarecrow is the centre of the binding, the ubiety is still bound but the warding ahs gone down, probably due to a trigger. There's a Ubiety in there that Red would like back.
+    - There's also a Ubiety of Lily's something caused or triggered something to happen.
+      - Embroidery - Clothes don't look like the Ubiety, creates all sorts of difficulties, don't bind Lily's ubiety.
+      - Quite easy to bind your own but difficult to bind others.
+      - Created by a lot of people really falling out.
+      - Thinking about moving into the 3 cottages N of the inn.
+        - Stone built with shutters, no stoves and no fireplaces.
+        - Of a liveable for one or two person.
+  - Move it forward a bit
+    - Red Testement has a plan that she's going to check.
+      - You lot are quite trustworthy and reasonable
+      - Spend the day starting to make the places liveable - might start to make it extra liveable to get some auto welfare chits
+      - Red - "I've spoken to a demon I know some sorcerry that should trap the ubieties.
+      - I'm goign to trap them and then leave, one is Lily Maiden's and 
+      - I will come back at some point and tell you.
+        - They live in Lily's place and she's quite powerful.
+        - In philgree's workshop, she made ragged's eye's there are 3 there, a perl, a piece of amathest, a piece of amber with a midge.
+        - Going to leave the other painting behind
+  - Haruspx the eyes, not going to just let her see, akin to the tongue replacements:
+    - Perl wisdom and learning - helpfull in the reading dept
+    - Ama healing and cleansing - more about seeing 
+    - Amber really clar sense tha tteh mos could leave the eyeball
+      - Amber is the more potent of the three
+    - No particular compleity but keep the socket clean and ready
+  ## spend H chit, fortune point and champagne happy
+  - Plan to find fabia
+  - ## Happy champagne welbeing
+  - Fabia making something to get rid of the smell.
+  - Table has been moved (not very far)
+  - Couple of days pass, but the houses are going to get proper cold in winter.
+    - Fabia cleans out Agnes's eyes
+    - Sleep, but now in a place where you can sleep in your own homes
+  - All livable, not great - Winter's going to be a problem as food will be.
+  - Start with the perl into the eye socket, doesn't just afix on it's own, it tries.
+    - Doesn't look very natural
+  - Swans in the fens
+    - Oliver studies the pond
+  - Getting ready for bed
+  - Silent Bell and a middle aged man, wearing black coming across the bridge.
+    - They go into the tower
+  - In the morning, we head to the tower, the rev'ds thing got sorted out
+    - Need to start teaching us - 
+    - We go to talk to the rev'd
+    - He's in the church
+      - We've had a bit of a rough time
+      - Tidying up, but he asks what we've noticed.
+      - Quietus killed everyone and buried them over there in the direction of the gnarled tree
+      - You didn't notice the tops of the pillars
+      - Big stack of firewood outside where the lads were, that we could use some of
+      - Rev would like to build it up, he doesn't know too much 
+      - What is community minded - live here, look after each other, everybody contributes
+      - Persue our own interests, help each other 
+      - Attacked we'll stand by each other 
+      - Silent Bell teach us some of teh humdrum path
+      - Ordinary Peter is the real expert with teh humdrum path
+        - He'll move back in if there are more people here.
+      - A decent artisan could put scrimshaw back together again, still sentient, and really irritating. Would be able to bring back some corpses to do some work.
+      - We could do with recruiting some people to be part of the community 
+      - Cooks and labourers 
+      - First steps 
+      - Can be in covenly in a day (where Or Peter lives)
+      - In the ouze washes, a strip of land, full of ditches, originally the wild fens, but Duke of Bedford had 2 canals, covenly is outside of the cuts. Extrodinarily difficult to do if it's obvious to an obsever.
+      - Humdrum path lets you 
+      - Try and stay clear of places
+      - Washes from st. Ives to downham market those places are quite orthodox. Eely is a great centre of orthodxy.
+      - Could use the druid stone to travel quite quickly.
+      - He carved the spell for three island, you need a stick from each of the trees to get there.
+      - Might see you for the service this (and every) evening
+      - ---
+      Thoughts
+      Is there a way of destroying the mile markers / stones
+      Translate for Oliver

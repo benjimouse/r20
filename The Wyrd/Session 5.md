@@ -135,7 +135,7 @@ Frances Brace
  - Slender and petiti woman, a lot of red hair, all of her outfit is red with flashes of gold
  - Tattos that look demonic down one side of her face, very precise and ink drawn.
  - She has a shoulder bag with "stuff"
- - Instead of killig yourself fuck up the witchfinders
+ - Instead of killing yourself fuck up the witchfinders
  - Take her back to silent belle's wood cut plates and a rolled up painting which she unrolls.
  - Does know something about the monster, someone out at sea killed some of us and made a potent ubiety from that act. Made up of things from that act.
    - That was done again recently just recently
@@ -151,4 +151,3 @@ Frances Brace
  - Had thougth that it was still warded, might have worn off 
  - Fabia says that we should probably sort out Princess Trotters
  - Princess trotter was philagree's pet
- - 
