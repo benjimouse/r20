@@ -100,7 +100,7 @@
       - Persue our own interests, help each other 
       - Attacked we'll stand by each other 
       - Silent Bell teach us some of teh humdrum path
-      - Ordinary Peter is the real expert with teh humdrum path
+      - Ordinary Peter is the real expert with the humdrum path
         - He'll move back in if there are more people here.
       - A decent artisan could put scrimshaw back together again, still sentient, and really irritating. Would be able to bring back some corpses to do some work.
       - We could do with recruiting some people to be part of the community 

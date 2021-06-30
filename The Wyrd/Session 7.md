@@ -1,0 +1,56 @@
+# Session 7
+ - Might move time on a bit
+ - Firewood is an issue (or will become one)
+ - Read Oliver - use chit, get number effect drops by one each time Leo sends a message.
+ - Cast Read oliver, using:
+  # Read Leo chit and Champagne Happy
+   - Get a pair of child sized good quality shoes
+   - Meet the Rev'd and his dog.
+ - You can give the dog, who's a hell hound messages.
+ - Move the wood and look through the moulds, a pretty extraordinary bit of work.
+ - Been bound and a bit blackened
+ - We start the hand fun...
+ - Needs 3 days of slow heat
+ - Maybe use some bones...
+ - Get it started with cuts on each side.
+ - Get some blood
+ - Put them in
+ - Takes three days to bake them
+ - Fisher people are still providing us with things.
+   - Ask for bright ribbons and a big cooking cauldron
+   - Boy asks for a wife (not an ugly one)
+ - Rev'd it's possible to turn one of the stones from the orthoxy but at the moment the King is trying to impose a new orthodoxy.
+   - Generally that's the stuff of legend - Very difficult to do anything where the ortodox is strong including 
+ - Plan to head village-wards
+ - Oliver makes voodoo doll of the the 
+ - 2nd night on the kiln
+ - Silent bell joins us.
+   - Oliver shows (subtly) Fabia her mask
+ - Silent bell
+   - Red T and Ratskinner took the clothes, Ratskinner opened the druid ways in the tunnels (very impressive) 
+   - One of the ubiety is ordinary Peter
+     - Silent Bell could teach us the Humdrum path
+       - Fabia could as well
+   - Looking for an eye socket mold
+   - Maybe spring some folks from witchfinder jail
+  ## 2 doses of pain 1 of tired
+  - With O in the university
+    - N is easily distracted by an attractive woman in next to no clothes
+      - She's cold and wet and kisses him
+      - She's Jemima -"I need a new husband and I've been promised one"
+      - She's a lot stronger than you are.
+      - She and the snake get close and he runs for it.
+      - A dangerous moistened bint
+      - Gets it on with the snake - I still want the other one for a husband
+ - Hand un bundling 
+ - Lots of pain, but the hands look properly good.
+ - Deffinately my hands, manipulate them, and tehy can crawl around 
+   - not Adam's family thing
+     - Can move around, rat with no back legs, can use them as if they were your hands
+     - Ragged tear
+     - Bound on, but significant lateral push and they're going to slide off.
+       - Does look like you've got hands
+     - Silent Belle is impressed, Fabia is less impressed 
+     - Explain that there was not a
+     - I head bedwards
+       - 
