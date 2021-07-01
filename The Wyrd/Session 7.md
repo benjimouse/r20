@@ -53,4 +53,5 @@
      - Silent Belle is impressed, Fabia is less impressed 
      - Explain that there was not a
      - I head bedwards
-       - 
+   - Head to the graveyard - stone and bronze angels
+     - Rev'd - bronze is in fact a person incased in bronze
