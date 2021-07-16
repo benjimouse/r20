@@ -27,8 +27,11 @@
   - Silent Belle is a really good teacher, Fabia is also good at it, but not so much at teaching, it's a well rehearsed set of lessons.
   - SB tells Nicholas that if you can't do this then you're not coming back.
   - Having to get to a headspace where everything is normal
+  ```
   - ## Learn Humdrum path - On wyrd - By default in effect, will tend to mean that people don't notice there's anything weird about you. Have to chose to use it, if you do any wyrd stuff then it stops working
+
   - ## The ordinary traveller, a spell from humdrum path, need to engage, gives you a value that does the same thing as the humdrum path but you can get away with doing things that are a bit wyrd, but that will start to reduce. Conversations also reduce it.
+  ```
   - In a couple of weeks she plans to show us how to travel the druid stones.
     - Monthly market in St Ives
       - Downham market is there all the time

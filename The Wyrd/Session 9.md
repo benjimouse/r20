@@ -1,0 +1,66 @@
+# Session 9
+ - Oliver sulking in his stable
+ - Share out some of the nice food
+ - Heading to the "sunken bit"
+ - There's a jail, a pond at the bottom, an area that's deeper, with a contraption...
+ - Head down the stairs, and very obvious that it's quite shallow, smelly and 
+ - Splash into the water, a bit stagnant and a bit green, not nice, but not 
+ - Was a water mill, looks a bit broken, but possibly fixable
+ - Head down the (little bit more than an) alley 2 story house, southen ones a bit bigger, all set up as bunk houses. Floors have fallen in, buildings are stone, set up to cram a lot of people in.
+ - Ones to the North, even more so, really cramming people in. Stone niche's in the walls.
+ - Looks proper unpleasant
+ - Probably slave type folks
+ - Water pump at the end
+ - Big stone opperating tables
+ - Bed rock walls - Wall turns into the back of the rectory.
+ - Come to the gate house with port cullis.
+ - Small gate house, port cullis, big iron doors, straight passageway into the stone.
+ - Jail big door, lockable, but not locked, set of keys on a hook on the wall.
+ - Guard room is not flooded corridor slopes down, water, has been higher.
+ - Pretty well constructed, sturdy jail, chains on the walls. Assortment of devices for stopping people talking. Proper unpleasant. Stopping talking 
+ - Unlock the doors of the jail, take the keys
+ - Head up out the courtyard.
+ - Pillaging the firewood, head to inn, stack some boots up etc.
+ - Afternoon.
+ - Go and see Fabia + Silent Bell.
+   - Fabia is sitting by the duck pond reading a book, Silent Bell is with her.
+   - The Fens were much wilder, before the cuts were built.
+   - People deciding after poppy milk and mushrooms.
+   - Scrimshaw was going to make undead out of bones to help with the labour
+   - A university project - not sure who was in charge to buy brown people in Africa and then bring them here as slaves.
+   - Lots of people didn't like either of those plans
+   - Roman stuff that let you make slave collars, Dr. F didn't like it.
+   - Think that Fabia was sold out to the witchfinders by one of us!
+   - Need to get elemental essence to get to pout
+   - Talk about travel through the druid ways, to places there are a way to go.
+   - Almost everything is gone from where the bits were, not something to do for a few weeks at least.
+   - The twins, did quite a lot in the tunnels, not completely full of water, the warding ahs been undone.
+   - Paths down in is where training was done.
+   - really irritaed with Scrimshaw Homermiara carrots jokes.
+   - Broken mirror can talk to people through mirrors, who is friendly, she trades in information.
+   - Used to be able to get through the ways.
+   - Need to pick a good one
+   - Some times they change
+   - Talk of names
+     - Dirty Dove
+     - Stumpy
+   - Quietus and pernitious were twins - Quietus went to London with Sir John got caught, then pernitious 
+   - Small door from the graveyard, the wall or the gate house.
+   - Head to a service
+   - Offer some prayers up to a variety of arch devils, no knifing or sacrificing, you just need to follow along. Will tell you a little bit about each of the devils as we go.
+   - Midnight service
+     - Walking round the church holding black candles, he lights candles at each of the 8 shrines, offering up prayers to each devil and then prayers to satan. Isn't asking for anything. Simple offerings of praise. Exhaltations. 
+     - I'm "just there" Nick and Agnes are joining in.
+     - Is cheerful.
+     - Goes round 8 in order
+       - Not got all occupied, so doesn't do 8 stations
+       - Starts with Asmodaeus - great strength as a ruler
+       - Hecate - Tripple faced goddess of magic
+         - No carved pillar but has a stone icon
+       - Lucifer - a lot of time on and personal thanks for gifts and blessings
+       - Lilith - Some time praising as satan's wife 
+       - The great beast Leviathan who dwells in the sea and destroys those things that must be destroyed
+       - Finally direct praise to satan, and then tea, scones and jam.
+       - All about what Jesus said as opposed to what old men with beards said what Jesus said.
+       - Probably do the Hill next
+       - 
